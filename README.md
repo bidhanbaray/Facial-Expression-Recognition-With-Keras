@@ -1,5 +1,11 @@
 # Facial-Expression-Recognition-With-Keras
-Coursera Project: https://www.coursera.org/projects/facial-expression-recognition-keras
+This deep learning based project takes the camera/web-cam images/videos to classify 7 different expressions: surprise, happy, sad, neutral, angry, disgust, fear.
+
+Sample Output:
+
+![Alt text](https://github.com/bidhanbaray/Facial-Expression-Recognition-With-Keras/blob/master/sample_output.jpg?raw=true "Title")
+
+
 ### Task 1: Introduction and Overview 
 In this section the project introduction and final result is shown
 ### Task 2 : Explore the Dataset
@@ -24,4 +30,7 @@ Run the main.py script and open localhost 0.0.0.0/5000 in the web browser
 
 <h4>pxToImgConverter:</h4> 
 <p>The dataset from kaggle: "https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data"</br>
+
 The python file reads the 'train.csv' and creates images and places the in the respective folders named after the emotion category.</p>
+
+Coursera Project: https://www.coursera.org/projects/facial-expression-recognition-keras
